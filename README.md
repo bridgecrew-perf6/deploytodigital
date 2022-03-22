@@ -1,2 +1,2 @@
-# littletiers
-little tiers
+# deploying a app to Heroku
+
